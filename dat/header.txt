@@ -1,0 +1,40 @@
+C      Undersampled Radio                                                      
+C                                                                              
+C                                                                              
+C                                                                              
+C      PROPRIETARY DATA | EXTREMELY SENSITIVE | DO NOT DISSEMINATE.            
+C      UNDRSMPLDRDIO INTERNAL DISTRIBUTION ONLY.                               
+C                                                                              
+C                                                                              
+C                                                                              
+C      Raw data with non-projected x/y geometry.                               
+C      Voice projection is 2D with max ensemble no. = 32767:                   
+C                              sx, gx, tracl                                   
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
+C                                                                              
